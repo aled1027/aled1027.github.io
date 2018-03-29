@@ -299,7 +299,7 @@ Github: github.com/aled1027
 
 <h3 id="framework-for-efficient-development-of-secure-multiparty-computation">Framework for Efficient Development of Secure Multiparty Computation</h3>
 
-<p>At MIT Lincoln Lab, I am designing and developing an MPC framework for secure multiparty computation.</p>
+<p>At MIT Lincoln Lab, I am designing and developing a framework for secure multiparty computation (MPC) which improves the speed at which developers can implement MPC protocols and applications.</p>
 
 <h3 id="externally-verifiable-oblivious-random-access-memory">Externally Verifiable Oblivious Random Access Memory</h3>
 
@@ -309,21 +309,19 @@ Github: github.com/aled1027
 
 <h3 id="component-based-garbled-circuits">Component-based Garbled Circuits</h3>
 
-<p>Yao&rsquo;s garbled circuits is a cryptographic technique for enabling two parties to jointly and securely compute a function while keeping their inputs private. We improve the performance and flexibility of garbled circuits by creating many circuits for common tasks (e.g., addition, equality, less-than) in an offline phase and linking the circuits together in the online phase to quickly create a larger circuit (e.g., a circuit for decision tree classification) for a specific functionality. We, importantly, do not assume to know the function to compute during the offline, only that the function uses common building blocks.</p>
+<p>Yao&rsquo;s garbled circuits is a cryptographic technique for enabling two parties to jointly and securely compute a function while keeping their inputs private. In this project, we improved the performance and flexibility of garbled circuits by creating many circuits for common tasks (e.g., addition, equality, less-than) in an offline phase and linking the circuits together in the online phase to quickly create a larger circuit for a specific functionality.</p>
 
-<p>We implement our work in two libraries. The first is <a href="https://github.com/amaloz/libgarble" target="_blank">libgarble</a>, a garbled circuit library written by Alex Malozemoff. The second is <a href="https://github.com/aled1027/CompGC" target="_blank">CompGC</a>, which uses libgarble to implement component-based garbled circuits.</p>
+<p>We implemented our work in two libraries. I was the primary author of <a href="https://github.com/aled1027/CompGC" target="_blank">CompGC</a>, which links common sub-circuits into larger circuits as described above. The second library, <a href="https://github.com/amaloz/libgarble" target="_blank">libgarble</a>, was primarily written by Alex Malozemoff and is for executing garbled circuits.</p>
 
-<p>This is joint work with <a href="http://people.reed.edu/~agroce/" target="_blank">Adam Groce</a>, <a href="http://web.mit.edu/arkady5/www/" target="_blank">Arkady Yerukhimovich</a>, and <a href="https://www.cs.umd.edu/~amaloz/" target="_blank">Alex Malozemoff</a>. Our paper can be found on <a href="Ahttps://eprint.iacr.org/2016/458.pdf" target="_blank">ePrint</a>.</p>
+<p>This was joint work with <a href="http://people.reed.edu/~agroce/" target="_blank">Adam Groce</a>, <a href="http://web.mit.edu/arkady5/www/" target="_blank">Arkady Yerukhimovich</a>, and <a href="https://www.cs.umd.edu/~amaloz/" target="_blank">Alex Malozemoff</a>. Our paper can be found on <a href="Ahttps://eprint.iacr.org/2016/458.pdf" target="_blank">ePrint</a>.</p>
 
 <h3 id="identifying-structural-variants-in-genomic-data-using-community-detection">Identifying Structural Variants in Genomic Data using Community Detection</h3>
 
-<p>I worked with <a href="http://www.reed.edu/biology/ritz/" target="_blank">Dr. Anna Ritz</a> on finding and categorizing structural variants in genomic data using community detection graph algorithms. My <a href="https://github.com/aled1027/blondel_communities" target="_blank">python package</a> implements <a href="https://arxiv.org/abs/0803.0476" target="_blank">Blondel et al.&rsquo;s</a> community detection algorithm.</p>
+<p>I worked with <a href="http://www.reed.edu/biology/ritz/" target="_blank">Dr. Anna Ritz</a> on finding and categorizing structural variants in genomic data using community detection graph algorithms. My <a href="https://github.com/aled1027/blondel_communities" target="_blank">python library</a> implements <a href="https://arxiv.org/abs/0803.0476" target="_blank">Blondel et al.&rsquo;s</a> community detection algorithm.</p>
 
 <h3 id="evolution-in-the-patents-database">Evolution in the Patents Database</h3>
 
-<p>I worked with <a href="http://people.reed.edu/~mab/" target="_blank">Dr. Mark Bedau</a> and others on investigating the U.S. patents database to analyze the <em>evolution of technology</em>.</p>
-
-<!-- ### Schelling's Model -->
+<p>I worked with <a href="http://people.reed.edu/~mab/" target="_blank">Dr. Mark Bedau</a> and others on investigating the U.S. patents database to analyze the <em>evolution of technology</em> over time.</p>
 
   </div>
   
