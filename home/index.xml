@@ -28,7 +28,7 @@ Before coming to MIT Lincoln Lab I was an undergraduate at Reed College studying
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/home/projects/</guid>
-      <description>Framework for Efficient Development of Secure Multiparty Computation At MIT Lincoln Lab, I am designing and developing an MPC framework for secure multiparty computation. More information to come.
+      <description>Framework for Efficient Development of Secure Multiparty Computation At MIT Lincoln Lab, I am designing and developing an MPC framework for secure multiparty computation.
 Externally Verifiable Oblivious Random Access Memory Oblivious Random Access Memory (ORAM) protocols are cryptographic protocols for obscuring a client&amp;rsquo;s access patterns to a set of data. In this project, we extended existing ORAM protocols to suppport a public, external party (e.g., a friend, paid contractor, or smart contract on a blockchain) to verify that the client and server are adhering to the protocol.</description>
     </item>
     
