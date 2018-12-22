@@ -18,8 +18,9 @@
       <pubDate>Fri, 02 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>/home/about/</guid>
-      <description>Email: a.led1027 &amp;lt;at&amp;gt; gmail &amp;lt;dot&amp;gt; com Github: github.com/aled1027  I am a software engineer focused on building tools and applications that enhance privacy and security. I have experience writing secure, cryptography code and building privacy-enhancing technologies.
-I currently work in the Secure Resilient Systems and Technology Group at MIT Lincoln Lab, where my team is building a programming framework for secure multi-party computation (MPC) protocols. Before joining MIT Lincoln Lab, I studied Mathematics and Computer Science at Reed College.</description>
+      <description>Email: a.led1027 &amp;lt;at&amp;gt; gmail &amp;lt;dot&amp;gt; com Github: github.com/aled1027  I am a software engineer focused on building tools for data analysis, privacy, and security. I have experience building data analysis tools, working directly with customers, writing secure, cryptography code, and building privacy-enhancing technologies.
+I currently work at Cambridge Semantics as a Solution Engineer, where I build custom solutions for customers for Cambridge Semantic&amp;rsquo;s graph database product.
+I used to work in the Secure Resilient Systems and Technology Group at MIT Lincoln Lab, where my team built a programming framework for secure multi-party computation (MPC) protocols.</description>
     </item>
     
     <item>
@@ -28,7 +29,7 @@ I currently work in the Secure Resilient Systems and Technology Group at MIT Lin
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/home/technologies/</guid>
-      <description> Interests         Cryptography, Computer Security, Privacy, Anonymity   Machine Learning, Data Analysis and Visualization    Technologies         C, C++, Python, Java, Rust, Haskell, Clojure, R, Matlab, Octave, Mathematica, Coq   AWS, Linux, Bash, Git, Latex, SQL, MongoDB, NoSQL    </description>
+      <description> Interests         Data analysis, Data Visualization, Graph databases, Machine Learning   Cryptography, Computer Security, Privacy, Anonymity    Technologies          Languages C, C++, Python, JavaScript, Java, Rust, Haskell, Clojure, Coq, Latex   Data analysis and visualization Python, JavaScript, R, Octave, Mathematica, Matlab   Databases SQL, NoSQL, Graph databases, SPARQL   Cloud AWS, Google Cloud Platform, Linux, Bash, Git    </description>
     </item>
     
     <item>
