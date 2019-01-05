@@ -3,39 +3,39 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://alexledger.net/plants/post/furb_sust/</loc>
+    <loc>/post/furb_sust/</loc>
     <lastmod>2018-12-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://alexledger.net/plants/post/it_begins_here/</loc>
+    <loc>/post/it_begins_here/</loc>
     <lastmod>2018-12-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://alexledger.net/plants/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2015-06-20T14:02:37+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://alexledger.net/plants/categories/</loc>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://alexledger.net/plants/</loc>
+    <loc>/</loc>
     <lastmod>2018-12-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://alexledger.net/plants/post/</loc>
+    <loc>/post/</loc>
     <lastmod>2018-12-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://alexledger.net/plants/tags/</loc>
+    <loc>/tags/</loc>
     <priority>0</priority>
   </url>
   
