@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Plants et al.</title>
-    <link>alexledger.net/plants/post/</link>
+    <link>http://alexledger.net/plants/post/</link>
     <description>Recent content in Posts on Plants et al.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 22 Dec 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="alexledger.net/plants/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://alexledger.net/plants/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Furb-Sust</title>
-      <link>alexledger.net/plants/post/furb_sust/</link>
+      <link>http://alexledger.net/plants/post/furb_sust/</link>
       <pubDate>Sat, 22 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>alexledger.net/plants/post/furb_sust/</guid>
+      <guid>http://alexledger.net/plants/post/furb_sust/</guid>
       <description>In August 2018 I embarked on a project focused on developing skills for refurbishing items and improving my personal sustainability practices to reduce my and my community’s wastefulness. I designed this activity around ideas in Jane Mcgonigal’s Superbetter. The premise is that a game-ful mindset helps people find meaning, achieve their goals, be happier, and be better contributors to their community.
 Using Mcgonigal’s framework I identified my epic win as:</description>
     </item>
     
     <item>
       <title>It Begins Here</title>
-      <link>alexledger.net/plants/post/it_begins_here/</link>
+      <link>http://alexledger.net/plants/post/it_begins_here/</link>
       <pubDate>Fri, 21 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>alexledger.net/plants/post/it_begins_here/</guid>
+      <guid>http://alexledger.net/plants/post/it_begins_here/</guid>
       <description>Welcome!
 This blog will document my journey through learning about plants, permaculture, gardening, herbalism, candle-making, and more.
 My intention is to learn a lot more about these topics and I want to share my methods of learning and what I learn on each topic to help others interested in learning about the areas. I hope that this website can serve as a reference and be a jumping off point for cool projects.</description>
