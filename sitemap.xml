@@ -5,7 +5,25 @@
     
     <url>
     
-      <loc>/</loc>
+      <loc>alexledger.net/plants/furb-sust/</loc>
+      <lastmod>2018-12-22T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>alexledger.net/plants/</loc>
+      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>alexledger.net/</loc>
       <lastmod>2018-02-02T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -15,7 +33,7 @@
     
     <url>
     
-      <loc>/categories/</loc>
+      <loc>alexledger.net/categories/</loc>
       <priority>0</priority>
     </url>
     
@@ -24,7 +42,7 @@
     
     <url>
     
-      <loc>/tags/</loc>
+      <loc>alexledger.net/tags/</loc>
       <priority>0</priority>
     </url>
     

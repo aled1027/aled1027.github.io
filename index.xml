@@ -2,13 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alex Ledger on Alex Ledger</title>
-    <link>/</link>
+    <link>alexledger.net/</link>
     <description>Recent content in Alex Ledger on Alex Ledger</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Fri, 02 Feb 2018 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+    <atom:link href="alexledger.net/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Furb-Sust</title>
+      <link>alexledger.net/plants/furb-sust/</link>
+      <pubDate>Sat, 22 Dec 2018 00:00:00 -0500</pubDate>
+      
+      <guid>alexledger.net/plants/furb-sust/</guid>
+      <description>
+
+&lt;p&gt;In August 2018 I embarked on a project focused on developing skills for refurbishing items and improving my personal sustainability practices to reduce my and my community’s wastefulness. I designed this activity around ideas in Jane Mcgonigal’s Superbetter. The premise is that a game-ful mindset helps people find meaning, achieve their goals, be happier, and be better contributors to their community.&lt;/p&gt;
+
+&lt;p&gt;Using Mcgonigal’s framework I identified my epic win as:&lt;/p&gt;
+
+&lt;p&gt;Epic Win: Learn and demonstrate eight new furb-sust (refurbishing or sustainability) practices (roughly one a week).&lt;/p&gt;
+
+&lt;p&gt;I then made a list of potential quests that would help me achieve this Epic Win. The initial list included:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Fix a hole in a piece of clothing&lt;/li&gt;
+&lt;li&gt;Fix a piece of a furniture&lt;/li&gt;
+&lt;li&gt;Set up a composting system&lt;/li&gt;
+&lt;li&gt;Measure, record, and analyze the amount of trash that I produce&lt;/li&gt;
+&lt;li&gt;Refurbish old electronics into something useful&lt;/li&gt;
+&lt;li&gt;Instead of throwing something away, find a new use for it&lt;/li&gt;
+&lt;li&gt;Fix a bad zipper&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Over time I added more quests to fulfill the Epic Win.&lt;/p&gt;
+
+&lt;h2 id=&#34;quests-completed&#34;&gt;Quests Completed&lt;/h2&gt;
+
+&lt;p&gt;As of this writing, way more than eight weeks later, I have completed six and a half quests.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Fix a hole in a piece of clothing (hole ripped open again, need to fix)&lt;/li&gt;
+&lt;li&gt;Setup a compost system (took three tries): Got a bin and drive it to a compost drop every few months.&lt;/li&gt;
+&lt;li&gt;Set up system for drying clothes: I made an indoor clothes hanging line. It fell last weekend.&lt;/li&gt;
+&lt;li&gt;Set up sustainable system for managing kitty waste: I bought Litter Genie.&lt;/li&gt;
+&lt;li&gt;Grow edible plants in the winter: Grew salad greens indoors.&lt;/li&gt;
+&lt;li&gt;Re-work old candles into new candles: Did just this and have made more candles from beeswax since.&lt;/li&gt;
+&lt;li&gt;Join a food co-op: I’m in the process of joining a fermentation co-op where we take turns making fermented foods for each other (this is in progress, so it counts as half done).&lt;/li&gt;
+&lt;li&gt;???&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;lessons-learned&#34;&gt;Lessons Learned&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Making a list of tasks and letting me pick which one I want to complete when is a really really good system for me. It reminds me what I want to do over a period of time, in which I can easily forget what I want to do. It helps me track what I’ve done because I can look at the completed quests. It gets me excited to do research, get inspired, and find ideas.&lt;/li&gt;
+&lt;li&gt;Completing a task, developing a system, and developing a system that requires little input are all different things. In the set up a compost system task, I opted to not subscribe to a pick-up compost service because my two options were expensive (it’s not provided by my municipality). So I instead bough compost bags and intended to take a full bag to the compost drop when I play soccer once a week. However, when I forgot to take the bag the first week, the compost ate through the bag and it was useless. I then didn’t want to take the compost in my care in fear that it would get all over everything. So I started to compile tons of compost without a plan of getting rid of it. I now need to carefully drive to the compost drive every other month to dump the compost — this is a considerable regular task since it takes about 35 minutes total, I usually don’t couple the activity with any other errands, and it causes me some anxiety. In whole, this is not a great system. I want to re-think this, but this version achieves my task and is do-able for now.&lt;/li&gt;
+&lt;li&gt;Overall, one can complete a task, create a system that requires high effort, or create a system with low to no effort. I aim for the latter but have found it exceedingly difficult.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
