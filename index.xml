@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alex Ledger on Alex Ledger</title>
-    <link>alexledger.net/</link>
+    <link>/</link>
     <description>Recent content in Alex Ledger on Alex Ledger</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Fri, 02 Feb 2018 00:00:00 +0000</lastBuildDate>
-    <atom:link href="alexledger.net/" rel="self" type="application/rss+xml" />
+    <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Furb-Sust</title>
-      <link>alexledger.net/plants/furb-sust/</link>
+      <link>/plants/furb-sust/</link>
       <pubDate>Sat, 22 Dec 2018 00:00:00 -0500</pubDate>
       
-      <guid>alexledger.net/plants/furb-sust/</guid>
+      <guid>/plants/furb-sust/</guid>
       <description>
 
 &lt;p&gt;In August 2018 I embarked on a project focused on developing skills for refurbishing items and improving my personal sustainability practices to reduce my and my community’s wastefulness. I designed this activity around ideas in Jane Mcgonigal’s Superbetter. The premise is that a game-ful mindset helps people find meaning, achieve their goals, be happier, and be better contributors to their community.&lt;/p&gt;

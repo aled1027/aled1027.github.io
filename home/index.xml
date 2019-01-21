@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Alex Ledger</title>
-    <link>alexledger.net/home/</link>
+    <link>/home/</link>
     <description>Recent content in Homes on Alex Ledger</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Fri, 02 Feb 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="alexledger.net/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>alexledger.net/home/about/</link>
+      <link>/home/about/</link>
       <pubDate>Fri, 02 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>alexledger.net/home/about/</guid>
+      <guid>/home/about/</guid>
       <description>Email: a.led1027 &amp;lt;at&amp;gt; gmail &amp;lt;dot&amp;gt; com Github: github.com/aled1027  I am software engineer and plant enthusiast. If you are interested in learning more about my projects with plants, check out my plant blog.
 In my day job I am a software engineer focused on building tools for data analysis, privacy, and security. I have experience building data analysis tools, working directly with customers, writing secure, cryptography code, and building privacy-enhancing technologies.</description>
     </item>
     
     <item>
       <title>Interests and Technologies</title>
-      <link>alexledger.net/home/technologies/</link>
+      <link>/home/technologies/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>alexledger.net/home/technologies/</guid>
+      <guid>/home/technologies/</guid>
       <description> Interests         Data analysis, Data Visualization, Graph databases, Machine Learning   Cryptography, Computer Security, Privacy, Anonymity    Technologies          Languages C, C++, Python, JavaScript, Java, Rust, Haskell, Clojure, Coq, Latex   Data analysis and visualization Python, JavaScript, R, Octave, Mathematica, Matlab   Databases SQL, NoSQL, Graph databases, SPARQL   Cloud AWS, Google Cloud Platform, Linux, Bash, Git    </description>
     </item>
     
     <item>
       <title>Work and Projects</title>
-      <link>alexledger.net/home/projects/</link>
+      <link>/home/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>alexledger.net/home/projects/</guid>
+      <guid>/home/projects/</guid>
       <description>Plants I am currently working on a variety of projects involving plants. Check out my plant blog to learn more!
 Framework for Efficient Development of Secure Multi-party Computation At MIT Lincoln Lab, I work on a team designing and developing a framework for secure multi-party computation (MPC) protocols. MPC is a privacy-enhancing, cryptographic technique for securely computing functions on private data - that is, the inputs and all intermediate values are never revealed to anyone.</description>
     </item>
