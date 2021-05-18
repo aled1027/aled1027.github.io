@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alex Ledger on Alex Ledger</title>
@@ -7,180 +6,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Fri, 02 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 Mar 2019 00:00:00 -0400</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Updates - May 12, 2019</title>
-      <link>/plants/updates-may-12-2019/</link>
-      <pubDate>Sun, 12 May 2019 00:00:00 -0400</pubDate>
+      <title>Plants et al.</title>
+      <link>/plants/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
       
-      <guid>/plants/updates-may-12-2019/</guid>
-      <description>
-
-&lt;h2 id=&#34;fermentation-sauerkraut&#34;&gt;Fermentation - Sauerkraut&lt;/h2&gt;
-
-&lt;p&gt;Cat and I made a few batches of Sauerkraut over the last few weeks. It was super easy and delicious. We used a combination of the recipes found in &lt;em&gt;Real Food Fermentation: Preserving Whole Fresh Food with Live Cultures in Your Home Kitchen&lt;/em&gt; by Alex Lewan and &lt;em&gt;The Noma Guide to Fermentation&lt;/em&gt;, with help on some of the physical, technical tasks from &lt;a href=&#34;https://www.youtube.com/watch?v=snxb_PSe3Ps&#34; target=&#34;_blank&#34;&gt;Brad Leone&amp;rsquo;s videos&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img width=&#34;60%&#34; src=&#34;/img/plants/sauerkraut_may_12.jpg&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;One issue we ran into with the batch above was that we over-seasoned. We added too much turmeric, and as the sauerkraut reduced in volume, the turmeric became overpowering.&lt;/p&gt;
-
-&lt;p&gt;&lt;img width=&#34;60%&#34; src=&#34;/img/plants/sauerkraut_may_12_2.jpg&#34;&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;fermentation-pickles&#34;&gt;Fermentation - Pickles&lt;/h2&gt;
-
-&lt;p&gt;We also made multiple batches of pickles. In the first batch, we included a jalapeno which added a great spicy flavor. In the second batch, we included a habanero which made them way too spicy. In the third batch, we kept it simple and made straightforward dill pickles.&lt;/p&gt;
-
-&lt;h2 id=&#34;fermentation-blueberries-and-beets&#34;&gt;Fermentation - Blueberries and Beets&lt;/h2&gt;
-
-&lt;p&gt;Cat is trying to ferment blueberries to make lactoblueberries using the Recipe from Noma and to ferment beets to make beet kvass.&lt;/p&gt;
-
-&lt;h2 id=&#34;plants-basils&#34;&gt;Plants - Basils&lt;/h2&gt;
-
-&lt;p&gt;Our basil plants have been doing amazing! We’ve transplanted them other pots and they are thriving. I’m thinking we will be able to do enough pruning in a few weeks to start noticeably supplementing our herb collection.&lt;/p&gt;
-
-&lt;h2 id=&#34;plants-spinach-thyme-sage-starters&#34;&gt;Plants - Spinach, Thyme, Sage Starters&lt;/h2&gt;
-
-&lt;p&gt;We planted Spinach, Thyme, and Sage starts which are not doing so well. I think that their soil got too dry from the light, our room wasn’t humid enough, and some plants drowned from overly-aggressive watering (even though I was very careful).&lt;/p&gt;
-
-&lt;p&gt;Next time I’m going to try a few tricks from Tench Acre Farm &lt;a href=&#34;https://www.tenthacrefarm.com/starting-seeds-indoors/&#34; target=&#34;_blank&#34;&gt;https://www.tenthacrefarm.com/starting-seeds-indoors/&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;plants-sprouts&#34;&gt;Plants - Sprouts&lt;/h2&gt;
-
-&lt;p&gt;We made sprouts in Jars using Broccoli seeds for sprouts bought off amazon; these turned out amazing! They were ready to eat in 4 to 6 days, tasted amazing, and I was just taking them straight out of the jar for multiple meals.&lt;/p&gt;
-
-&lt;p&gt;I’m definitely going to continue to grow sprouts in jars, but I want to experiment with how we eat them. I was adding them to the top of fried rice-esque dishes, which was great, but I think they can be more of a focal point of different dishes. They are different work with than salad greens, which is more what I’m used to.&lt;/p&gt;
-
-&lt;h2 id=&#34;meal-prep-making-lots-of-burritos&#34;&gt;Meal Prep - Making lots of Burritos&lt;/h2&gt;
-
-&lt;p&gt;We made 16 burritos a few weeks ago and froze most of them for lunches, which we took out of the freezer and warmed up for the subsequent weeks. Our strategy was simple and effective: we made a flavorful bean sauce, roasted veggies, and shredded cheese and put all of the ingredients in tortillas. A great element of this strategy was that Cat could focus on the bean sauce while I focused on roasting the veggies.&lt;/p&gt;
-
-&lt;h2 id=&#34;moving&#34;&gt;Moving!&lt;/h2&gt;
-
-&lt;p&gt;We just signed a lease for a new apartment that we will move to at the end of August. The apartment is super nice, but it is smaller and doesn’t have an outdoor area for growing plants. Cat and I are planning on trying to optimize our indoor growing for this new situation with its new constraints. New ideas and experiments will be announced soon!&lt;/p&gt;
-
-&lt;h2 id=&#34;what-s-next&#34;&gt;What’s next?&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Herb starters&lt;/li&gt;
-&lt;li&gt;A refined technique for growing starters&lt;/li&gt;
-&lt;li&gt;More fermentation&lt;/li&gt;
-&lt;li&gt;A fermentation meal&lt;/li&gt;
-&lt;li&gt;Mushrooms?&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Growing Basil Starters</title>
-      <link>/plants/growing-basil-starters/</link>
-      <pubDate>Fri, 29 Mar 2019 00:00:00 -0400</pubDate>
-      
-      <guid>/plants/growing-basil-starters/</guid>
-      <description>
-
-&lt;p&gt;Cat and I finished setting up our grow lights two and a half weeks. Our lights are Sunleaves Pioneer VI High-output T5 4 Foot lights (Fluorescent T5) which are raised with a Jump Start 4 Foot light stand.&lt;/p&gt;
-
-&lt;p&gt;&lt;img width=&#34;60%&#34; src=&#34;/img/plants/grow_lights.jpg&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;We planted Genovese basil as our first endeavor.
-We acquired three pot-like items, added soil, and sprinkled the seeds uniformly on top of the soil.
-Based on what we read online, basil seeds can be placed on top of soil (i.e., broadcast sowing) because they are a stemmy plant and will grow downwards.&lt;/p&gt;
-
-&lt;p&gt;We initially kept the plants on the window sill instead of under the grow light, and the plants didn’t seem to be making any progress, but later we moved the plants to under the grow lights and they started sprouting much more quickly.
-We have been watering the plants every day and misted such that soil was very moist every morning, and about a week after planting, the basil plants sprouted.
-Yesterday, we installed an electrical outlet timer so we don’t need to manually turn on and off the grow lights.&lt;/p&gt;
-
-&lt;p&gt;&lt;img width=&#34;50%&#34; src=&#34;/img/plants/basil1.jpg&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;It seems like the basil starters are doing well overall, but time will tell. We are not sure yet what changes we would make in the future; these are some we&amp;rsquo;re considering:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Did we plant the seeds too densely?&lt;/li&gt;
-&lt;li&gt;Was the soil sufficiently nutritious - should we have added fertilizer?&lt;/li&gt;
-&lt;li&gt;The soil was drying out quickly - was this due to the heat from the lights, soil? Does it matter?&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;what-we-re-excited-about-next&#34;&gt;What we’re excited about next&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Developing a system for tracking when we water the plants, their progress&lt;/li&gt;
-&lt;li&gt;Transplanting the basil starters once they reach sufficient maturity.&lt;/li&gt;
-&lt;li&gt;Growing thyme starters&lt;/li&gt;
-&lt;li&gt;Making sauerkraut&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Our Growing Space</title>
-      <link>/plants/our-growing-space/</link>
-      <pubDate>Sun, 17 Feb 2019 00:00:00 -0500</pubDate>
-      
-      <guid>/plants/our-growing-space/</guid>
-      <description>&lt;p&gt;Want to give a quick introduction to the growing space that we are working with. My partner Cat and I rent an apartment in Somerville, Massachusetts. We live with two cats and grow most of our plants in our spare room that we only let the cats in if we are around (because they love munching on the plants).&lt;/p&gt;
-
-&lt;p&gt;Our spare room has a small, south-facing window that directly faces another building. The room gets a reasonable amount of sunlight, which we aim to supplement with good design and growing lights. In the winter we keep our apartment between 60 and 67 degrees.&lt;/p&gt;
-
-&lt;p&gt;Unfortunately, because we are renting and unsure where we will be living in 8 months, we need to use systems that are portable: pots and small beds that can be moved. For the winter, we will keep things inside until we can the move the pots outside.&lt;/p&gt;
-
-&lt;p&gt;The limitations of our situation present some interesting challenges and opportunities. I want to see how we can adopt some permaculture techniques and ideas into a space that is potted, portable, and temporary. I’ve been reading about potted gardens, outdoor permaculture, green house permaculture, roof-top gardens to find ideas that we can adapt. Stay tuned to see what we do.&lt;/p&gt;
-
-&lt;p&gt;&lt;img width=&#34;40%&#34; src=&#34;/img/plants/growing_space.jpg&#34;&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Furb-Sust</title>
-      <link>/plants/furb-sust/</link>
-      <pubDate>Sat, 22 Dec 2018 00:00:00 -0500</pubDate>
-      
-      <guid>/plants/furb-sust/</guid>
-      <description>
-
-&lt;p&gt;In August 2018 I embarked on a project focused on developing skills for refurbishing items and improving my personal sustainability practices to reduce my and my community’s wastefulness. I designed this activity around ideas in Jane Mcgonigal’s Superbetter. The premise of Superbetter is that a game-ful mindset helps people find meaning, achieve their goals, be happier, and be better contributors to their community.&lt;/p&gt;
-
-&lt;p&gt;Using Mcgonigal’s framework I identified my epic win as:&lt;/p&gt;
-
-&lt;p&gt;Epic Win: Learn and demonstrate eight new furb-sust (refurbishing or sustainability) practices (roughly one a week).&lt;/p&gt;
-
-&lt;p&gt;I then made a list of potential quests that would help me achieve this Epic Win. The initial list included:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Fix a hole in a piece of clothing&lt;/li&gt;
-&lt;li&gt;Fix a piece of a furniture&lt;/li&gt;
-&lt;li&gt;Set up a composting system&lt;/li&gt;
-&lt;li&gt;Measure, record, and analyze the amount of trash that I produce&lt;/li&gt;
-&lt;li&gt;Refurbish old electronics into something useful&lt;/li&gt;
-&lt;li&gt;Instead of throwing something away, find a new use for it&lt;/li&gt;
-&lt;li&gt;Fix a bad zipper&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Over time I added more quests to fulfill the Epic Win.&lt;/p&gt;
-
-&lt;h2 id=&#34;quests-completed&#34;&gt;Quests Completed&lt;/h2&gt;
-
-&lt;p&gt;As of this writing, way more than eight weeks later, I have completed six and a half quests.&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Fix a hole in a piece of clothing (hole ripped open again, need to fix)&lt;/li&gt;
-&lt;li&gt;Setup a compost system (took three tries): Got a bin and drive it to a compost drop every few months.&lt;/li&gt;
-&lt;li&gt;Set up system for drying clothes: I made an indoor clothes hanging line. It fell last weekend.&lt;/li&gt;
-&lt;li&gt;Set up sustainable system for managing kitty waste: I bought Litter Genie.&lt;/li&gt;
-&lt;li&gt;Grow edible plants in the winter: Grew salad greens indoors.&lt;/li&gt;
-&lt;li&gt;Re-work old candles into new candles: Did just this and have made more candles from beeswax since.&lt;/li&gt;
-&lt;li&gt;Join a food co-op: Joined a fermentation co-op.&lt;/li&gt;
-&lt;li&gt;Sign up for CSA: Signed up for a vegetable half-share for summer 2019.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&#34;lessons-learned&#34;&gt;Lessons Learned&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Making a list of tasks and letting me pick which one I want to complete when is a really really good system for me. It reminds me what I want to do over a period of time, in which I can easily forget what I want to do. It helps me track what I’ve done because I can look at the completed quests. It gets me excited to do research, get inspired, and find ideas.&lt;/li&gt;
-&lt;li&gt;Completing a task, developing a system, and developing a system that requires little input are all different things. In the set up a compost system task, I opted to not subscribe to a pick-up compost service because my two options were expensive (it’s not provided by my municipality). So I instead bough compost bags and intended to take a full bag to the compost drop when I play soccer once a week. However, when I forgot to take the bag the first week, the compost ate through the bag and it was useless. I then didn’t want to take the compost in my care in fear that it would get all over everything. So I started to compile tons of compost without a plan of getting rid of it. I now need to carefully drive to the compost drive every other month to dump the compost — this is a considerable regular task since it takes about 35 minutes total, I usually don’t couple the activity with any other errands, and it causes me some anxiety. In whole, this is not a great system. I want to re-think this, but this version achieves my task and is do-able for now.&lt;/li&gt;
-&lt;li&gt;Overall, one can complete a task, create a system that requires high effort, or create a system with low to no effort. I aim for the latter but have found it exceedingly difficult.&lt;/li&gt;
-&lt;/ul&gt;
+      <guid>/plants/</guid>
+      <description>&lt;p&gt;Welcome!&lt;/p&gt;
+&lt;p&gt;This blog documents my journey through learning about plants, permaculture, gardening, herbalism and more.&lt;/p&gt;
+&lt;p&gt;My intention is to learn more about these topics, and I will share what I learn to help others who are interested.
+I hope that this website can be jumping-off point and reference for cool projects.&lt;/p&gt;
 </description>
     </item>
     

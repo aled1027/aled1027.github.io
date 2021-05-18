@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Alex Ledger</title>
@@ -7,19 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Fri, 02 Feb 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 02 Feb 2018 00:00:00 +0000</lastBuildDate><atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>/home/about/</link>
       <pubDate>Fri, 02 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>/home/about/</guid>
-      <description>Email: a.led1027 &amp;lt;at&amp;gt; gmail &amp;lt;dot&amp;gt; com Github: github.com/aled1027  I am a technologist and plant enthusiast. If you are interested in learning more about my projects with plants, check out my plant blog.
-I currently work at Cambridge Semantics as a Field Architect where I combine data science, data engineering, software architecture, consulting, and business analytics to support our data product in customers&amp;rsquo; environments.
+      <description>Email: a.led1027 &amp;lt;at&amp;gt; gmail &amp;lt;dot&amp;gt; com Github: github.com/aled1027 I am a technologist and plant enthusiast. If you are interested in learning more about my projects with plants, check out my plant blog.
+I currently work at Cambridge Semantics as a Senior Field Architect where I combine data science, data engineering, software architecture, consulting, and business analytics to support our data product in customers&#39; environments.
 I used to work in the Secure Resilient Systems and Technology Group at MIT Lincoln Lab, where my team built a programming framework for secure multi-party computation (MPC) protocols.</description>
     </item>
     
@@ -29,7 +25,7 @@ I used to work in the Secure Resilient Systems and Technology Group at MIT Linco
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/home/technologies/</guid>
-      <description> Interests         Data analysis, Data Visualization, Graph databases, Machine Learning   Cryptography, Computer Security, Privacy, Anonymity    Technologies          Languages C, C++, Python, JavaScript, Java, Rust, Haskell, Clojure, Coq, Latex   Data analysis and visualization Python, JavaScript, R, Octave, Mathematica, Matlab   Databases SQL, NoSQL, Graph databases, SPARQL   Cloud AWS, Google Cloud Platform, Linux, Bash, Git    </description>
+      <description>Interests         Data analysis, Data Visualization, Graph databases, Machine Learning   Cryptography, Computer Security, Privacy, Anonymity    Technologies          Languages C, C++, Python, JavaScript, Java, Rust, Haskell, Clojure, Coq, Latex   Data analysis and visualization Python, JavaScript, R, Octave, Mathematica, Matlab   Databases SQL, NoSQL, Graph databases, SPARQL   Cloud AWS, Google Cloud Platform, Linux, Bash, Git    </description>
     </item>
     
     <item>
